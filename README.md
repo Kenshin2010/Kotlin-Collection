@@ -1,3 +1,5 @@
+https://viblo.asia/p/kotlin-collection-XL6lAyeBlek
+===================================================
 Giới thiệu
 Khác với các nhiều ngôn ngữ khác, Kotlin phân biệt rõ ràng giữa collection có thể thay đổi giá trị và collection không thể thay đổi giá trị(list, set, map...). Bởi vậy, việc control chính xác lúc nào dùng loại collection thế nào sẽ giúp giảm thiểu bug và việc thiết kế các API được tốt hơn. Kotlin cung cấp cho chúng ta một tập các native interface để làm việc với collection:
 
